@@ -5,8 +5,7 @@
 This project implements a Price Predictor for latop  using Random Forest with 90% accuracy 
 
 ## Demo
-<video src="
-https://github.com/Nitin1-singh/movie-ai/assets/148739561/c653ed6b-3370-49f2-a16b-ae2da7c4cbc4" width="400px" height="300px" controls>
+<video src="https://github.com/Nitin1-singh/movie-ai/assets/148739561/c653ed6b-3370-49f2-a16b-ae2da7c4cbc4" width="400px" height="300px" controls>
 </video>
 
 <!-- ## Features
